@@ -1,0 +1,112 @@
+﻿[
+  {
+    "id": "Currency",
+    "strings": 
+    {
+      "en": "Currency",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "EggLayingRate",
+    "strings":
+      {
+      "en": "Egg Laying Rate",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "EggValue",
+    "strings":
+    {
+      "en": "Egg Value",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "InternalHatcheryRate",
+    "strings": 
+    {
+      "en": "Internal Hatchery Rate",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "MaxShippingRate",
+    "strings": 
+    {
+      "en": "Max Shipping Rate",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "NumberOfChickens",
+    "strings": 
+    {
+      "en": "Number of Chickens",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "NumberOfShippingTrucks",
+    "strings": 
+    {
+      "en": "Number of Shipping Trucks",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "ComfortableNests",
+    "strings": 
+    {
+      "en": "Comfortable Nests",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "ImprovedGenetics",
+    "strings": 
+    {
+      "en": "Improved Genetics",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  },
+  {
+    "id": "SemiTruck",
+    "strings": 
+    {
+      "en": "Semi Truck",
+      "fr": "PLACEHOLDER",
+      "it": "PLACEHOLDER",
+      "de": "PLACEHOLDER",
+      "es": "PLACEHOLDER"
+    }
+  }
+]
